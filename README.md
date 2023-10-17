@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rryan2210
-- 👀 I’m interested in Data Analyrics
+- 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Python 🐍
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me linkedin/rosearyan 
 
 <!---
